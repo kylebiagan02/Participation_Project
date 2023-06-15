@@ -20,3 +20,5 @@ streamlit_app/__pycache__
 .DS_Store
 *.swp
 *~
+
+venv/
